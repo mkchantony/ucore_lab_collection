@@ -1,3 +1,7 @@
+# Target directories
+bin/
+obj/
+
 # Object files
 *.o
 
